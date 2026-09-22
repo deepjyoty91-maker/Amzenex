@@ -1,0 +1,48 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+migrate_working_dir/
+
+# Flutter / Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+
+# Android
+/android/app/build
+/android/.gradle
+/android/local.properties
+/android/key.properties
+*.apk
+*.aab
+
+# iOS / macOS
+/ios/Flutter/App.framework
+/ios/Flutter/Flutter.framework
+/ios/Flutter/Flutter.podspec
+/ios/Runner/GeneratedPluginRegistrant.*
+/ios/.symlinks/
+/ios/Pods/
+/ios/Podfile.lock
+/ios/ServiceDefinitions.json
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Artifact Scratch & Local JDKs
+jdk17/
+jdk17.tar.gz
+ndk26.zip
+ndk28.zip

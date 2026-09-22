@@ -1,0 +1,148 @@
+[
+  {
+    "id": 101,
+    "name": "Dr. Rahul Sharma",
+    "speciality": "Cardiologist",
+    "experience": 12,
+    "consultationFee": 800,
+    "available": true,
+    "about": "Senior Interventional Cardiologist specializing in preventive heart care, coronary angioplasty, and hypertension management.",
+    "rating": 4.9,
+    "reviewCount": 128,
+    "hospitalLocation": "Amzenex Heart Institute, Dispur, Guwahati",
+    "reviews": [
+      {
+        "patientName": "Rituraj Bezbaruah",
+        "rating": 5.0,
+        "comment": "Dr. Rahul is fantastic. Diagnosed my father's cardiac block quickly and handled the procedure smoothly.",
+        "date": "Yesterday"
+      },
+      {
+        "patientName": "Pooja Saikia",
+        "rating": 4.8,
+        "comment": "Very reassuring demeanor and clear prescription guidance.",
+        "date": "4 days ago"
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "name": "Dr. Priya Patel",
+    "speciality": "Dermatologist",
+    "experience": 8,
+    "consultationFee": 650,
+    "available": true,
+    "about": "Clinical & Aesthetic Dermatologist expert in laser therapy, acne care, eczema, and skin rejuvenation.",
+    "rating": 4.7,
+    "reviewCount": 86,
+    "hospitalLocation": "Amzenex Derma Care, Christian Basti, Guwahati",
+    "reviews": [
+      {
+        "patientName": "Dipankar Kalita",
+        "rating": 5.0,
+        "comment": "My skin allergy cleared up within a week using Amzenex DermaShield ointment prescribed by Dr. Priya.",
+        "date": "3 days ago"
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "name": "Dr. Amit Verma",
+    "speciality": "Orthopedic",
+    "experience": 15,
+    "consultationFee": 1000,
+    "available": false,
+    "about": "Joint Replacement Specialist and Orthopedic Surgeon focusing on knee arthroplasty, sports injuries, and spine health.",
+    "rating": 4.8,
+    "reviewCount": 142,
+    "hospitalLocation": "Amzenex Bone & Joint Care, Zoo Road, Guwahati",
+    "reviews": [
+      {
+        "patientName": "Nabajyoti Nath",
+        "rating": 4.5,
+        "comment": "Great surgical expertise. Knee pain is completely gone.",
+        "date": "2 weeks ago"
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "name": "Dr. Sneha Reddy",
+    "speciality": "Pediatrician",
+    "experience": 10,
+    "consultationFee": 700,
+    "available": true,
+    "about": "Child Healthcare Consultant specializing in infant nutrition, childhood vaccinations, and pediatric allergy care.",
+    "rating": 4.9,
+    "reviewCount": 115,
+    "hospitalLocation": "Amzenex Children's Hospital, Six Mile, Guwahati",
+    "reviews": [
+      {
+        "patientName": "Meenakshi Bora",
+        "rating": 5.0,
+        "comment": "Kids feel so comfortable with Dr. Sneha. Always gives gentle care.",
+        "date": "5 days ago"
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "name": "Dr. Rajesh Iyer",
+    "speciality": "Neurologist",
+    "experience": 18,
+    "consultationFee": 1200,
+    "available": true,
+    "about": "Lead Neuro Physician specializing in migraine management, stroke rehab, epilepsy, and peripheral neuropathy.",
+    "rating": 4.9,
+    "reviewCount": 178,
+    "hospitalLocation": "Amzenex Neuro Care, Ulubari, Guwahati",
+    "reviews": [
+      {
+        "patientName": "Himangshu Chetia",
+        "rating": 5.0,
+        "comment": "Accurate nerve diagnosis and excellent treatment plan.",
+        "date": "1 week ago"
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "name": "Dr. Ananya Roy",
+    "speciality": "General Physician",
+    "experience": 6,
+    "consultationFee": 500,
+    "available": true,
+    "about": "Primary care physician dedicated to comprehensive health checkups, fever management, and lifestyle disease counseling.",
+    "rating": 4.6,
+    "reviewCount": 64,
+    "hospitalLocation": "Amzenex Wellness Clinic, Bhangagarh, Guwahati",
+    "reviews": [
+      {
+        "patientName": "Siddharth Deka",
+        "rating": 4.5,
+        "comment": "Quick consultation and effective fever medication.",
+        "date": "3 days ago"
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "name": "Dr. Vikram Singh",
+    "speciality": "Cardiologist",
+    "experience": 20,
+    "consultationFee": 1500,
+    "available": true,
+    "about": "Senior Cardiac Surgeon & Electrophysiologist with over two decades of clinical excellence in complex heart conditions.",
+    "rating": 5.0,
+    "reviewCount": 210,
+    "hospitalLocation": "Amzenex Super Speciality Hospital, GS Road, Guwahati",
+    "reviews": [
+      {
+        "patientName": "Pankaj Hazarika",
+        "rating": 5.0,
+        "comment": "One of the finest cardiologists in Assam and Guwahati region.",
+        "date": "Yesterday"
+      }
+    ]
+  }
+]
